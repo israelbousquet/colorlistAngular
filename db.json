@@ -1,0 +1,24 @@
+{
+  "colorList": [
+    {
+      "id": 1,
+      "cor": "preto"
+    },
+    {
+      "id": 2,
+      "cor": "prata"
+    },
+    {
+      "id": 3,
+      "cor": "vermelho"
+    },
+    {
+      "id": 4,
+      "cor": "azul"
+    },
+    {
+      "id": 5,
+      "cor": "bege"
+    }
+  ]
+}
